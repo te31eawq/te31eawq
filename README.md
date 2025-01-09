@@ -1,4 +1,5 @@
-## EMAIL : **mine0890@naver.com**
+## EMAIL
+- #### **mine0890@naver.com**
 ## Project
 - #### [Smart Carrier](https://github.com/te31eawq/SmartCarrier_project)         |  yolov8,mediapipe,monodepth 모델을 이용한 따라다니는 케리어
 
