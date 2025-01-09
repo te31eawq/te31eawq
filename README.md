@@ -8,4 +8,5 @@
 
 - ### [Smart FAN](https://github.com/te31eawq/FAN_Project)
 
-### [Portfolio](https://github.com/te31eawq/class)
+## Portfolio
+https://github.com/te31eawq/class
